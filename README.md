@@ -1,3 +1,3 @@
 # Alunotp
 
-exercicio realizado usando sql
+exercicio realizado usando versionamento de código
